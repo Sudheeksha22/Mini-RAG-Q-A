@@ -1,0 +1,8 @@
+Python 3.10 or above
+VS Code
+Internet connection
+Streamlit
+Sentence Transformers
+ChromaDB
+Ollama
+Llama 3.2 model
